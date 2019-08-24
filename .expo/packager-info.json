@@ -1,9 +1,9 @@
 {
-  "devToolsPort": 19002,
+  "devToolsPort": 19004,
   "expoServerPort": 19000,
   "packagerPort": 19003,
-  "packagerPid": 51996,
+  "packagerPid": 70470,
   "expoServerNgrokUrl": "https://v5-kgx.anonymous.blog.exp.direct",
   "packagerNgrokUrl": "https://packager.v5-kgx.anonymous.blog.exp.direct",
-  "ngrokPid": 52009
+  "ngrokPid": 70487
 }
